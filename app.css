@@ -9,11 +9,13 @@
 
 .container {
     background: url('./image/cloud1.jpg');
+    background-size: auto 100%;
     color: #fff;
     padding: 2rem;
     width: 40%;
     margin: 4rem auto;
     border-radius: 10px;
+    height: 100vh;
 }
 
 .weather__header {
