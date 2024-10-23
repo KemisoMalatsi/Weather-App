@@ -8,7 +8,7 @@
 }
 
 .container {
-    background: red;
+    background: url('./image/cloud1.jpg');
     color: #fff;
     padding: 2rem;
     width: 40%;
